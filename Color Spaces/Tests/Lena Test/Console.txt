@@ -1,0 +1,135 @@
+RGB
+
+Image Header Details:
+
+Size            : 112
+Channels        : 3
+Depth           : 8
+Color Model     : RGB
+Channel Seq     : BGR
+Data Order      : 0
+Origin          : 0
+Align           : 4
+Width           : 624
+Height          : 1007
+Image Size      : 1885104
+Width Step      : 1872
+
+HSV
+
+Image Header Details:
+
+Size            : 112
+Channels        : 3
+Depth           : 8
+Color Model     : RGB
+Channel Seq     : BGR
+Data Order      : 0
+Origin          : 0
+Align           : 4
+Width           : 624
+Height          : 1007
+Image Size      : 1885104
+Width Step      : 1872
+
+RED
+
+Image Header Details:
+
+Size            : 112
+Channels        : 1
+Depth           : 8
+Color Model     : GRAYGRAY
+Channel Seq     : GRAY
+Data Order      : 0
+Origin          : 0
+Align           : 4
+Width           : 624
+Height          : 1007
+Image Size      : 628368
+Width Step      : 624
+
+GREEN
+
+Image Header Details:
+
+Size            : 112
+Channels        : 1
+Depth           : 8
+Color Model     : GRAYGRAY
+Channel Seq     : GRAY
+Data Order      : 0
+Origin          : 0
+Align           : 4
+Width           : 624
+Height          : 1007
+Image Size      : 628368
+Width Step      : 624
+
+BLUE
+
+Image Header Details:
+
+Size            : 112
+Channels        : 1
+Depth           : 8
+Color Model     : GRAYGRAY
+Channel Seq     : GRAY
+Data Order      : 0
+Origin          : 0
+Align           : 4
+Width           : 624
+Height          : 1007
+Image Size      : 628368
+Width Step      : 624
+
+HUE
+
+Image Header Details:
+
+Size            : 112
+Channels        : 1
+Depth           : 8
+Color Model     : GRAYGRAY
+Channel Seq     : GRAY
+Data Order      : 0
+Origin          : 0
+Align           : 4
+Width           : 624
+Height          : 1007
+Image Size      : 628368
+Width Step      : 624
+
+SATURATION
+
+Image Header Details:
+
+Size            : 112
+Channels        : 1
+Depth           : 8
+Color Model     : GRAYGRAY
+Channel Seq     : GRAY
+Data Order      : 0
+Origin          : 0
+Align           : 4
+Width           : 624
+Height          : 1007
+Image Size      : 628368
+Width Step      : 624
+
+VALUE
+
+Image Header Details:
+
+Size            : 112
+Channels        : 1
+Depth           : 8
+Color Model     : GRAYGRAY
+Channel Seq     : GRAY
+Data Order      : 0
+Origin          : 0
+Align           : 4
+Width           : 624
+Height          : 1007
+Image Size      : 628368
+Width Step      : 624
